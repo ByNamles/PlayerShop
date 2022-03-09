@@ -1,0 +1,5 @@
+name: PlayerShop
+version: 1
+main: ByNamles\PlayerShop\PSMain
+api: 4.0.0
+author: ByNamles
